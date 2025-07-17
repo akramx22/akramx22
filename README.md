@@ -11,7 +11,7 @@
 - **Languages:** Python, SQL, JavaScript, C, C++
 - **Databases:** PostgreSQL, SQL (advanced querying & design)
 - **Tools:** Figma, Git, VS Code
-- **Concepts:** Data Warehousing, System Design, UI/UX, DSA
+- **Concepts:** Data Warehousing, System Design, UI/UX, DSA, ETL Pipelines
 
 ---
 
@@ -19,13 +19,12 @@
 
 - 🧭 **Hike It** – Adventure tourism platform (Graduation Project)  
 - 🧪 Building real-world pipelines (ETL, SQL-based mini projects)  
-- 🧠 Passionate about NLP, AI systems, and making tech meaningful
+- 🧠 Passionate machine learning algorithms and AI applications
 
 ---
 
 ## 📜 Certifications
 
-- Data Engineering Track – DataCamp  
   *(SQL, Relational Databases, Database Design)*  
 - Associate Data Engineer in SQL – DataCamp
 
@@ -41,4 +40,4 @@ Arabic · English · French
 
 [LinkedIn](https://www.linkedin.com/in/mokeddem-akram-854782367)  
 [GitHub](https://github.com/akramx22)  
-📧 akramcs022@gmail.com
+akramcs022@gmail.com
